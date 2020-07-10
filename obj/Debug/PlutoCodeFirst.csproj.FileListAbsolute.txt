@@ -1,0 +1,14 @@
+C:\Users\animu\source\repos\PlutoCodeFirst\PlutoCodeFirst\bin\Debug\PlutoCodeFirst.exe.config
+C:\Users\animu\source\repos\PlutoCodeFirst\PlutoCodeFirst\bin\Debug\PlutoCodeFirst.exe
+C:\Users\animu\source\repos\PlutoCodeFirst\PlutoCodeFirst\bin\Debug\PlutoCodeFirst.pdb
+C:\Users\animu\source\repos\PlutoCodeFirst\PlutoCodeFirst\bin\Debug\EntityFramework.dll
+C:\Users\animu\source\repos\PlutoCodeFirst\PlutoCodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\animu\source\repos\PlutoCodeFirst\PlutoCodeFirst\bin\Debug\EntityFramework.xml
+C:\Users\animu\source\repos\PlutoCodeFirst\PlutoCodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\animu\source\repos\PlutoCodeFirst\PlutoCodeFirst\obj\Debug\PlutoCodeFirst.csprojAssemblyReference.cache
+C:\Users\animu\source\repos\PlutoCodeFirst\PlutoCodeFirst\obj\Debug\PlutoCodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\animu\source\repos\PlutoCodeFirst\PlutoCodeFirst\obj\Debug\PlutoCodeFirst.csproj.CopyComplete
+C:\Users\animu\source\repos\PlutoCodeFirst\PlutoCodeFirst\obj\Debug\PlutoCodeFirst.exe
+C:\Users\animu\source\repos\PlutoCodeFirst\PlutoCodeFirst\obj\Debug\PlutoCodeFirst.pdb
+C:\Users\animu\source\repos\PlutoCodeFirst\PlutoCodeFirst\obj\Debug\PlutoCodeFirst.Migrations.InitialModel.resources
+C:\Users\animu\source\repos\PlutoCodeFirst\PlutoCodeFirst\obj\Debug\PlutoCodeFirst.csproj.GenerateResource.cache
